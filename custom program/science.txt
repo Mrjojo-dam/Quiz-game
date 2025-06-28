@@ -1,0 +1,10 @@
+What is the chemical symbol for water?;H2O;CO2;NaCl;O2;0
+Which planet is known as the Red Planet?;Venus;Mars;Jupiter;Saturn;1
+What is the largest organ in the human body?;Brain;Heart;Skin;Liver;2
+What is the process by which plants make their own food?;Respiration;Photosynthesis;Digestion;Circulation;1
+What is the smallest unit of matter?;Molecule;Atom;Cell;Electron;1
+Which of these is not a state of matter?;Solid;Liquid;Gas;Energy;3
+What is the closest star to Earth?;Proxima Centauri;Alpha Centauri;Sirius;The Sun;3
+Which of these is not a type of rock?;Igneous;Sedimentary;Metamorphic;Volcanic;3
+What is the speed of light?;299,792;150,000;100,000;500,000;0
+Which element has the chemical symbol 'Au'?;Silver;Gold;Copper;Aluminum;1

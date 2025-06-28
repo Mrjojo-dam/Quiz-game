@@ -1,0 +1,10 @@
+What is 7 x 8?;54;56;62;64;1
+What is the square root of 144?;10;11;12;13;2
+What is 3/4 as a decimal?;0.75;0.67;0.80;0.70;0
+What is the next number in the sequence: 2, 4, 8, 16, ...?;24;28;32;36;2
+What is 15% of 200?;25;30;35;40;1
+What is the value of π (pi) to two decimal places?;3.14;3.16;3.18;3.20;0
+What is the sum of angles in a triangle?;90 degrees;180 degrees;270 degrees;360 degrees;1
+What is 2^5 (2 to the power of 5)?;25;30;32;64;2
+What is the result of 17 + 25 - 13?;29;30;31;32;0
+If x + 5 = 12, what is the value of x?;5;6;7;8;2

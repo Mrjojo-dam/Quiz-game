@@ -1,0 +1,10 @@
+Which of these is a synonym for 'happy'?;Sad;Joyful;Angry;Tired;1
+What is the past tense of 'eat'?;Eated;Ate;Eaten;Eating;1
+Which word is a noun?;Run;Jump;Book;Quickly;2
+What is the opposite of 'brave'?;Strong;Cowardly;Heroic;Bold;1
+Which of these is a pronoun?;Table;She;Blue;Quickly;1
+What is the plural of 'child'?;Childs;Childen;Children;Childres;2
+Which word is spelled correctly?;Accomodate;Accommodate;Acommodate;Acomodate;1
+What is the comparative form of 'good'?;Gooder;More good;Better;Best;2
+Which sentence is grammatically correct?;The cat is sleeping on the bed;The cat sleeping on the bed;The cat be sleeping on the bed;The cat are sleeping on the bed;0
+What part of speech is 'quickly'?;Noun;Verb;Adjective;Adverb;3
